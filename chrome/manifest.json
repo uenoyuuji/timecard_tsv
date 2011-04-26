@@ -1,0 +1,12 @@
+{
+  "name": "Timecard Tsv (for Cybozu Office 8)",
+  "version": "0.1",
+//  "options_page": "options.html",
+//  "background_page": "background.html",
+  "content_scripts": [{
+    "js": [ "timecard_tsv.js" ],
+    "matches": [ "http://*/*", "https://*/*" ],
+    "run_at": "document_idle"
+  }]
+}
+
