@@ -1,5 +1,5 @@
 ﻿// ==UserScript==
-// @name    timecard tsv (for Cybozu Office 8)
+// @name    Timecard Tsv (for Cybozu Office 8)
 // @version 0.1
 // @include http://*
 // @include https://*
